@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/classe-dehors/static/css/main.ce5ef230.chunk.css",
+    "main.js": "/classe-dehors/static/js/main.3080a0ab.chunk.js",
+    "main.js.map": "/classe-dehors/static/js/main.3080a0ab.chunk.js.map",
+    "runtime-main.js": "/classe-dehors/static/js/runtime-main.90eeda6a.js",
+    "runtime-main.js.map": "/classe-dehors/static/js/runtime-main.90eeda6a.js.map",
+    "static/css/2.5100ad1e.chunk.css": "/classe-dehors/static/css/2.5100ad1e.chunk.css",
+    "static/js/2.a0a28a34.chunk.js": "/classe-dehors/static/js/2.a0a28a34.chunk.js",
+    "static/js/2.a0a28a34.chunk.js.map": "/classe-dehors/static/js/2.a0a28a34.chunk.js.map",
+    "index.html": "/classe-dehors/index.html",
+    "precache-manifest.bf64105a6e239003c95d8c7cc9414b84.js": "/classe-dehors/precache-manifest.bf64105a6e239003c95d8c7cc9414b84.js",
+    "service-worker.js": "/classe-dehors/service-worker.js",
+    "static/css/2.5100ad1e.chunk.css.map": "/classe-dehors/static/css/2.5100ad1e.chunk.css.map",
+    "static/css/main.ce5ef230.chunk.css.map": "/classe-dehors/static/css/main.ce5ef230.chunk.css.map",
+    "static/js/2.a0a28a34.chunk.js.LICENSE.txt": "/classe-dehors/static/js/2.a0a28a34.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90eeda6a.js",
+    "static/css/2.5100ad1e.chunk.css",
+    "static/js/2.a0a28a34.chunk.js",
+    "static/css/main.ce5ef230.chunk.css",
+    "static/js/main.3080a0ab.chunk.js"
+  ]
+}
